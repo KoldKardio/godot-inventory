@@ -1,3 +1,3 @@
-# This repo consists the godot inventory system using various methods
+# Repo consists of godot inventory system using various methods
 
 - check them later when uploaded
